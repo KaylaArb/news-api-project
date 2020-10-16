@@ -1,1 +1,1 @@
-"# news-api-project" 
+# news-api-project
