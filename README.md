@@ -1,4 +1,4 @@
-# News Browser
+# News API Project
 
 Application consuming REST API https://newsapi.org/ in order to display news from a specified country and category.
 
@@ -17,7 +17,7 @@ See deployment for notes on how to deploy the project on a live system.
 To install this example application, run the following commands:
 
 ```bash
-git clone https://github.com/adrian216/news.git
+git clone https://github.com/KaylaArb/news-api-project.git
 cd news
 ```
 
