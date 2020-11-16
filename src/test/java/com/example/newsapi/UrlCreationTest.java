@@ -21,5 +21,4 @@ public class UrlCreationTest {
         assertEquals(expectedURL, newsAPIService.buildURL("pl", "business"), "Must return " + expectedURL);
     }
 
-
 }
